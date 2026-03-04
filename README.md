@@ -71,5 +71,5 @@ Dashboards executivos desenvolvidos para:
 * Análise de performance operacional
 * Controle de custos e suprimentos
 * Monitoramento de KPIs industriais
-
-🔗 Inserir link do Power BI ou Drive aqui
+![Dashboard PCM](https://raw.githubusercontent.com/seuusuario/repositorio/main/imagens/pinorei.jpg)
+🔗 https://github.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/blob/main/pinorei.jpg
