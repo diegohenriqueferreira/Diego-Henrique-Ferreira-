@@ -99,7 +99,7 @@ Dashboards executivos desenvolvidos para:
 </td>
 
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/5s.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Análise de Falha - Defeito crônico rolamento </b>
