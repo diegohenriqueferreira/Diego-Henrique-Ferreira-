@@ -96,13 +96,6 @@ Vivência nos segmentos:
 </a>
 </td>
 
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
-<br>
-<a href="https://www.linkedin.com/posts/lucas-braga-martins-a58908133_seguranca-ugcPost-7265757552418639873-BBtH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
-<b>Excel + Vba - Sistema de Cadastro Avançado - Base Access </b>
-</a>
-</td>
 
 </table>
 
@@ -137,6 +130,14 @@ Dashboards executivos desenvolvidos para:
 <br>
 <a href="https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
 <b>Organização e Eficiência Operacional </b>
+</a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
+<br>
+<a href="https://www.linkedin.com/posts/lucas-braga-martins-a58908133_seguranca-ugcPost-7265757552418639873-BBtH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
+<b> Redução de custo através de Gestão Técnica de desgaste </b>
 </a>
 </td>
 
