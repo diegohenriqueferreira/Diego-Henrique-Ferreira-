@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/DIEGO%20HENRIQUE%20FERREIRA-ENGENHARIA%20%7C%20PCM%20%7C%20DADOS-0A0A0A?style=for-the-badge&logo=databricks&logoColor=00FF7F">
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-__________________________________________-00A86B?style=flat">
+</p>
+
+
+<h2 align="center">
+  <span style="color:#00A86B;">⚙ Engenharia & Manutenção</span>
+</h2>
+
 # 👨‍💻 Diego Henrique Ferreira
 
 **Engenheiro Mecânico | PCM | Análise de Dados | SAP PM | Power BI | Excel & Automação | Suprimentos**
