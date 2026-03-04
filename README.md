@@ -70,70 +70,52 @@ Dashboards executivos desenvolvidos para:
 
 -----
 
-<h2 align="center">📊 Portfólio de Projetos</h2>
+<h2 align="center">📊 Engenharia e Manutenção</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
-        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
-      </a>
-      <br>
-      <strong>Projeto 1</strong>
-      <br>
-      <sub>Dashboard PCM</sub>
-    </td>
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+</a>
+<br><b>Organização como Pilar da Eficiência na Manutenção</b>
+</td>
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
-        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
-      </a>
-      <br>
-      <strong>Projeto 2</strong>
-      <br>
-      <sub>Análise de Custos</sub>
-    </td>
+<td align="center">
+<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+</a>
+<br><b>Projeto 2</b>
+</td>
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
-        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
-      </a>
-      <br>
-      <strong>Projeto 3</strong>
-      <br>
-      <sub>Indicadores Industriais</sub>
-    </td>
-  </tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+</a>
+<br><b>Projeto 3</b>
+</td>
+</tr>
 
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
-        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
-      </a>
-      <br>
-      <strong>Projeto 4</strong>
-      <br>
-      <sub>Gestão de Estoque</sub>
-    </td>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+</a>
+<br><b>Projeto 4</b>
+</td>
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
-        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
-      </a>
-      <br>
-      <strong>Projeto 5</strong>
-      <br>
-      <sub>Planejamento de Manutenção</sub>
-    </td>
+<td align="center">
+<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+</a>
+<br><b>Projeto 5</b>
+</td>
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
-        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
-      </a>
-      <br>
-      <strong>Projeto 6</strong>
-      <br>
-      <sub>Power BI Executivo</sub>
-    </td>
-  </tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+</a>
+<br><b>Projeto 6</b>
+</td>
+</tr>
 </table>
