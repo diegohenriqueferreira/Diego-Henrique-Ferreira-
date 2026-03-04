@@ -101,7 +101,7 @@ Dashboards executivos desenvolvidos para:
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/rolamento.jpg" width="260">
 <br>
-<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+<a href="[https://www.linkedin.com/in/diegohenriqueferreira10/](https://www.linkedin.com/pulse/an%25C3%25A1lise-comparativa-defeito-cr%25C3%25B4nico-fragilidade-do-da-diego-trr9c/?trackingId=Gy%2FFBsU%2FxDOCB7d4riMTag%3D%3D)">
 <b>Análise de Falha - Defeito crônico rolamento </b>
 </a>
 </td>
