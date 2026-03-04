@@ -79,7 +79,7 @@ Dashboards executivos desenvolvidos para:
 <tr>
 
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Organização como Pilar da Eficiência na Manutenção</b>
@@ -87,7 +87,7 @@ Dashboards executivos desenvolvidos para:
 </td>
 
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Projeto 2</b>
@@ -95,7 +95,7 @@ Dashboards executivos desenvolvidos para:
 </td>
 
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Projeto 3</b>
@@ -107,7 +107,7 @@ Dashboards executivos desenvolvidos para:
 <tr>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Projeto 4</b>
@@ -115,7 +115,7 @@ Dashboards executivos desenvolvidos para:
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Projeto 5</b>
@@ -123,7 +123,7 @@ Dashboards executivos desenvolvidos para:
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Projeto 6</b>
