@@ -71,51 +71,64 @@ Dashboards executivos desenvolvidos para:
 -----
 
 <h2 align="center">📊 Engenharia e Manutenção</h2>
+<p align="center"><i>Projetos voltados para organização, eficiência operacional e confiabilidade de ativos</i></p>
 
-<table>
+<br>
+
+<table align="center">
 <tr>
-<td align="center">
+
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+<b>Organização como Pilar da Eficiência na Manutenção</b>
 </a>
-<br><b>Organização como Pilar da Eficiência na Manutenção</b>
 </td>
 
-<td align="center">
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+<b>Projeto 2</b>
 </a>
-<br><b>Projeto 2</b>
 </td>
 
-<td align="center">
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+<b>Projeto 3</b>
 </a>
-<br><b>Projeto 3</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+<b>Projeto 4</b>
 </a>
-<br><b>Projeto 4</b>
 </td>
 
 <td align="center">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+<b>Projeto 5</b>
 </a>
-<br><b>Projeto 5</b>
 </td>
 
 <td align="center">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="260">
+<br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="280">
+<b>Projeto 6</b>
 </a>
-<br><b>Projeto 6</b>
 </td>
+
 </tr>
 </table>
