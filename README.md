@@ -142,12 +142,4 @@ Dashboards executivos desenvolvidos para:
 
 
 
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
-<br>
-<a href="https://www.linkedin.com/posts/lucas-braga-martins-a58908133_seguranca-ugcPost-7265757552418639873-BBtH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
-<b>Redução de Custo com Análise de Desgaste </b>
-</a>
-</td>
-
 </table>
