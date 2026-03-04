@@ -70,10 +70,10 @@ Vivência nos segmentos:
 <tr>
 
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/rolamento.jpg" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/financeiro.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/pulse/an%25C3%25A1lise-comparativa-defeito-cr%25C3%25B4nico-fragilidade-do-da-diego-trr9c/?trackingId=Gy%2FFBsU%2FxDOCB7d4riMTag%3D%3D">
-<b>Excel + Vba - Sistema de Gestão Financeira </b>
+<b>Excel + Vba - Sistema de Gestão Financeira (Em Construção)</b>
 </a>
 </td>
 
@@ -82,7 +82,7 @@ Vivência nos segmentos:
 <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/5s.jpg" width="260">
 <br>
 <a href="https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
-<b>Excel + Vba - Sistema de Cadastro Básico </b>
+<b>Excel + Vba - Sistema de Cadastro Básico (Em Construção)</b>
 </a>
 </td>
 
@@ -92,7 +92,7 @@ Vivência nos segmentos:
 <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
 <br>
 <a href="https://www.linkedin.com/posts/lucas-braga-martins-a58908133_seguranca-ugcPost-7265757552418639873-BBtH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
-<b>Excel + Vba - Sistema de Cadastro Avançado </b>
+<b>Excel + Vba - Sistema de Cadastro Avançado (Em Construção)</b>
 </a>
 </td>
 
