@@ -9,17 +9,12 @@
 </p>
 
 
-<h2 align="center">
-  <span style="color:#00A86B;">⚙ Engenharia & Manutenção</span>
-</h2>
-
-# 👨‍💻 Diego Henrique Ferreira
 
 **Engenheiro Mecânico | PCM | Análise de Dados | SAP PM | Power BI | Excel & Automação | Suprimentos**
 
-📍 Bambuí – MG
-📧 [diegohenriqueferreira@outlook.com.br](mailto:diegohenriqueferreira@outlook.com.br)
-📱 (37) 99826-1515
+📍 Bambuí – MG <br>
+📧 [diegohenriqueferreira@outlook.com.br](mailto:diegohenriqueferreira@outlook.com.br) <br>
+📱 (37) 99826-1515 <br>
 🔗 https://www.linkedin.com/in/diegohenriqueferreira10
 
 ---
@@ -96,9 +91,13 @@ Dashboards executivos desenvolvidos para:
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
 <br>
-<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<b>Organização como Pilar da Eficiência na Manutenção</b>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Organização%20como%20Pilar%20da-006400?style=for-the-badge&logoColor=00FF7F">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Eficiência%20na%20Manutenção-004d00?style=for-the-badge&logoColor=00FF7F">
+</p>
 </td>
 
 <td align="center" width="33%">
