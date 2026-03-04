@@ -81,7 +81,7 @@ Dashboards executivos desenvolvidos para:
 -----
 
 <h2 align="center">📊 Engenharia e Manutenção</h2>
-<p align="center"><i>Projetos voltados para organização, eficiência operacional e confiabilidade de ativos</i></p>
+
 
 <br>
 
@@ -91,24 +91,18 @@ Dashboards executivos desenvolvidos para:
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/5s.jpg" width="260">
 <br>
-<p align="center">
-  <a href="https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
-    <img src="https://img.shields.io/badge/Organização%20como%20Pilar%20da-006400?style=for-the-badge">
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
-    <img src="https://img.shields.io/badge/da%20Eficiência%20Operacional-006400?style=for-the-badge">
-  </a>
-</p>
+
+<a href="[https://www.linkedin.com/in/diegohenriqueferreira10/](https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk)">
+<b>Organização e Eficiência Operacional </b>
+</a>
 </td>
 
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
 <br>
 <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
-<b>Projeto 2</b>
+<b>Análise de Falha - Defeito crônico rolamento </b>
 </a>
 </td>
 
