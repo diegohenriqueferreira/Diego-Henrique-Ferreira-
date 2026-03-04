@@ -92,13 +92,15 @@ Dashboards executivos desenvolvidos para:
 <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/5s.jpg" width="260">
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+  <a href="https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
     <img src="https://img.shields.io/badge/Organização%20como%20Pilar%20da-006400?style=for-the-badge">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Eficiência%20na%20Manutenção-004d00?style=for-the-badge&logoColor=00FF7F">
+  <a href="https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk">
+    <img src="https://img.shields.io/badge/da%20Eficiência%20Operacional-006400?style=for-the-badge">
+  </a>
 </p>
 </td>
 
