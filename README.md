@@ -67,9 +67,73 @@ Projetos desenvolvidos com foco em:
 
 Dashboards executivos desenvolvidos para:
 
-* Indicadores estratégicos de manutenção
-* Análise de performance operacional
-* Controle de custos e suprimentos
-* Monitoramento de KPIs industriais
-![Dashboard PCM]([https://raw.githubusercontent.com/seuusuario/repositorio/main/imagens/pinorei.jpg](https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/refs/heads/main/imagens/PINOREI.jpg))
-🔗 https://github.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/blob/main/pinorei.jpg
+
+-----
+
+<h2 align="center">📊 Portfólio de Projetos</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
+        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
+      </a>
+      <br>
+      <strong>Projeto 1</strong>
+      <br>
+      <sub>Dashboard PCM</sub>
+    </td>
+
+    <td align="center">
+      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
+        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
+      </a>
+      <br>
+      <strong>Projeto 2</strong>
+      <br>
+      <sub>Análise de Custos</sub>
+    </td>
+
+    <td align="center">
+      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
+        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
+      </a>
+      <br>
+      <strong>Projeto 3</strong>
+      <br>
+      <sub>Indicadores Industriais</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
+        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
+      </a>
+      <br>
+      <strong>Projeto 4</strong>
+      <br>
+      <sub>Gestão de Estoque</sub>
+    </td>
+
+    <td align="center">
+      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
+        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
+      </a>
+      <br>
+      <strong>Projeto 5</strong>
+      <br>
+      <sub>Planejamento de Manutenção</sub>
+    </td>
+
+    <td align="center">
+      <a href="https://www.linkedin.com/in/diegohenriqueferreira10/" target="_blank">
+        <img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI.jpg" width="300">
+      </a>
+      <br>
+      <strong>Projeto 6</strong>
+      <br>
+      <sub>Power BI Executivo</sub>
+    </td>
+  </tr>
+</table>
