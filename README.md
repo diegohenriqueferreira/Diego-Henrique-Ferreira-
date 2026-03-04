@@ -89,10 +89,12 @@ Dashboards executivos desenvolvidos para:
 <tr>
 
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/5s.jpg" width="260">
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Organização%20como%20Pilar%20da-006400?style=for-the-badge&logoColor=00FF7F">
+  <a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
+    <img src="https://img.shields.io/badge/Organização%20como%20Pilar%20da-006400?style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
