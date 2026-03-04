@@ -57,7 +57,7 @@ Vivência nos segmentos:
 ## 📊 Excel – Automação e Sistemas Industriais
 
 Projetos desenvolvidos com foco em:
-
+![Dashboard PCM]([https://raw.githubusercontent.com/seuusuario/repositorio/main/imagens/dashboard-pcm.png](https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/refs/heads/main/imagens/PINOREI.jpg))
 
 🔗 Inserir link do seu Drive ou GitHub aqui
 
@@ -71,5 +71,5 @@ Dashboards executivos desenvolvidos para:
 * Análise de performance operacional
 * Controle de custos e suprimentos
 * Monitoramento de KPIs industriais
-![Dashboard PCM](https://raw.githubusercontent.com/seuusuario/repositorio/main/imagens/pinorei.jpg)
+![Dashboard PCM]([https://raw.githubusercontent.com/seuusuario/repositorio/main/imagens/pinorei.jpg](https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/refs/heads/main/imagens/PINOREI.jpg))
 🔗 https://github.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/blob/main/pinorei.jpg
