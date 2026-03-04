@@ -93,7 +93,10 @@ Dashboards executivos desenvolvidos para:
 <br>
 
 
-<a href="[https://www.linkedin.com/in/diegohenriqueferreira10/](https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk)">
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/main/imagens/PINOREI2.png" width="260">
+<br>
+<a href="https://www.linkedin.com/in/diegohenriqueferreira10/">
 <b>Organização e Eficiência Operacional </b>
 </a>
 </td>
