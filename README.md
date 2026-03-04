@@ -57,7 +57,7 @@ Vivência nos segmentos:
 ## 📊 Excel – Automação e Sistemas Industriais
 
 Projetos desenvolvidos com foco em:
-![Dashboard PCM]([https://raw.githubusercontent.com/seuusuario/repositorio/main/imagens/dashboard-pcm.png](https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/refs/heads/main/imagens/PINOREI.jpg))
+![Dashboard PCM] (https://raw.githubusercontent.com/diegohenriqueferreira/Diego-Henrique-Ferreira-/refs/heads/main/imagens/PINOREI.jpg)
 
 🔗 Inserir link do seu Drive ou GitHub aqui
 
